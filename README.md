@@ -9,7 +9,7 @@ Just include nepo-pitch-zoom.jquery.js.
 ### Requirements
 You must inlude jQuery before.
 
-### Initialisation
+### Initialization
 ```
 $('img').nepoPinchZoom();
 ```
